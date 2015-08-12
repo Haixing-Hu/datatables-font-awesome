@@ -1,0 +1,27 @@
+{
+  "name": "datatables-font-awesome",
+  "version": "1.0.0",
+  "description": "The font-awesome integration of the DataTables",
+  "homepage": "https://github.com/Haixing-Hu/datatables-font-awesome",
+  "authors": [
+    "DataTables Team",
+    "Haixing Hu"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Haixing-Hu/datatables-font-awesome.git"
+  },
+  "main": [
+    "dataTables.fontAwesome.css"
+  ],
+  "keywords": [
+    "datatables",
+    "font-awesome"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "datatables": ">=1.0.0",
+    "font-awesome": ">=4.1.0"
+  },
+  "ignore": []
+}
